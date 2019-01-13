@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the ToyApp which has been developed by using ruby on rails.
 
-Things you may want to cover:
+In this application, we can create, update and delete the user..
+We can also add, update and delete the content for the user through micropost page...
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Validation:
+Input field validation: If all teh field is not filled, it will display error message.
+Function validation: If the correct user id is not selected for storing the content of the user, it will display error message.
